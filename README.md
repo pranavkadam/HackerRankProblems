@@ -1,2 +1,2 @@
 # HackerRankProblems
-The following are some problems I solved on Hackerrank. 
+The following are some problems I solved on Hackerrank (among others).
